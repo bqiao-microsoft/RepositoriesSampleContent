@@ -1,7 +1,7 @@
 param workspace string
 
 resource workspace_Microsoft_SecurityInsights_c8edbea2_2abe_49e5_a8a0_e18e00f1551c 'Microsoft.OperationalInsights/workspaces/providers/alertRules@2023-12-01-preview' = {
-  name: '${workspace}/Microsoft.SecurityInsights/c8edbea2-2abe-49e5-a8a0-e18e00f1551c'
+  name: '${workspace}/Microsoft.SecurityInsights/c8edbea2-2abe-49e5-a8a0-e18e00f1551d'
   kind: 'Scheduled'
   properties: {
     displayName: 'Test rule'
