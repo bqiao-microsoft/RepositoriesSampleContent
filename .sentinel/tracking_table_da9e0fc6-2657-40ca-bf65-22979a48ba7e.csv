@@ -1,0 +1,6 @@
+FileName, CommitSha
+sentinel-deployment.config,d0176f11505175ced27cc0d3ede6f708fe7e120e
+Detections/Sample/imProcess_NOBELIUM_SuspiciousRundll32Exec.json,407c1c446286bcc3e4ca7da04767d2a895bfaac9
+Detections/Sample/MalformedUserAgents.json,ee6bc4e38e526f390b1936c568cf54dba43c2e9f
+Detections/Sample/PasswordSpray.json,9190e34e9b54db53303efe49488cf5cf8c245b1c
+
